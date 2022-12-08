@@ -1,1 +1,1 @@
-# example-repo-symlink
+symreadme/README.md
