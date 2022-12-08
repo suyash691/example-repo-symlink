@@ -1,1 +1,1 @@
-symreadme/README.md
+symreadme/readme.md
